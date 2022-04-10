@@ -1,0 +1,108 @@
+/* header part */
+.images{
+    height: 30px;
+    padding-left: 10px;
+}
+.abc{
+    text-decoration: none;
+    color: black;
+    padding-left: 10px;
+}
+.qadeer{
+    margin-top: 12px;
+}
+.image{
+    height: 15px;
+}
+.qadee{
+    margin-top: 20px;
+}
+.serach{
+    border: 1px solid black;
+    padding: 10px;
+}
+.header{
+    background-color: rgb(247, 241, 241)
+}
+
+/* middle section */
+.section{
+    margin-top: 10px;
+}
+.mazz a{
+    text-decoration: none;
+    color: black;
+    padding-left: 10px;
+}
+.mazz{
+    margin-top: 5px;
+}
+.mazz a:hover{
+    color: rgb(115, 115, 185);
+}
+
+ /* section-2 */
+.section-2{
+    margin-top: 10px;
+} 
+.orasoft{
+    height: 300px;
+}
+
+/* paragraph */
+.paragraph{
+    margin-top: 50px;
+}
+.hafeez{
+    height: 200px;
+}
+.card-section-1{
+    margin-top: 5px;
+}
+.syalni{
+    margin-top: 100px;
+    margin-left: 75px;
+}
+.section-4{
+    margin-top: 20px;
+    background-color: rgb(247, 241, 241)
+}
+.loplop{
+    margin-top: 30px;
+}
+.laptop{
+    margin-top: 50px;
+}
+.fano a{
+    text-decoration: none;
+    color: gray;
+}
+.fano a:hover{
+    color: black;
+}
+.fano{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.enaa{
+    margin-top: 20px;
+}
+.hwahei{
+    margin-top: -20px;
+    padding-left: 5px;
+}
+.link{
+    margin-top: 30px;
+}
+.section-5{
+    background-color: rgb(230, 213, 213);
+    height: 200px;
+}
+.footer{
+    background-color: rgb(29, 24, 24);
+}
+.footer h6{
+    color: white;
+    margin-left: 950px;
+    margin-top: -15px;
+}
